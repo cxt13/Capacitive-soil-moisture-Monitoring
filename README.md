@@ -29,7 +29,7 @@ Perfect for:
 
 ### Custom PCB (Designed by me)
 
-![Custom PCB - Top View](pcb-render.png)
+![Custom PCB - Top View]
 
 **Main components visible on the board:**
 - ESP WiFi module (ESP8266 / ESP32 compatible)
